@@ -1,160 +1,138 @@
+<div align="center">
+
 # 📱 Smartphone Usage & Addiction Analytics Dashboard
 
-<p align="center">
+### Interactive Power BI Dashboard for Smartphone Usage, Social Media Behavior & Health Analysis
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-Pandas-blue?style=for-the-badge&logo=python)
-![WEKA](https://img.shields.io/badge/WEKA-Data%20Mining-orange?style=for-the-badge)
-![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-0176D3?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-</p>
-
----
-
-## 📌 Project Overview
-
-This project presents an **interactive Power BI dashboard** developed to analyze **smartphone usage patterns, social media behavior, addiction levels, mental health, sleep quality, and academic performance**.
-
-The dashboard combines insights from **two datasets** and transforms raw data into meaningful visualizations using **Python (Pandas)**, **WEKA**, and **Microsoft Power BI**.
-
-It enables users to explore trends through KPIs, interactive charts, slicers, filters, and business insights to better understand the relationship between smartphone usage and overall well-being.
-
----
-
-# 🎯 Objectives
-
-- Analyze smartphone usage behavior
-- Study smartphone addiction levels
-- Evaluate social media usage patterns
-- Understand sleep and mental health trends
-- Compare academic performance with smartphone habits
-- Generate meaningful business insights
-- Support data-driven decision making
-
----
-
-# 🛠️ Tech Stack
-
-- 🐍 Python
-- 🐼 Pandas
-- 📊 Matplotlib
-- 🧠 WEKA
-- 📈 Microsoft Power BI
-- ⚡ DAX Measures
-- 📑 Microsoft Excel
-
----
-
-# 🔄 Project Workflow
-
-<p align="center">
-<img src="workflow.png" width="420">
-</p>
-
-### Workflow
-
-```
-Dataset Collection
-        ↓
-Python (Pandas)
-        ↓
-Data Cleaning
-        ↓
-Data Preprocessing
-        ↓
-WEKA Analysis
-        ↓
-Power BI Data Modeling
-        ↓
-Dashboard Development
-        ↓
-Insight Generation
-        ↓
-Business Recommendations
-```
+</div>
 
 ---
 
 # 🏠 Home Dashboard
 
 <p align="center">
-<img src="home.png" width="1000">
+<img src="assets/images/Home.png" width="1000">
 </p>
-
-The Home Dashboard acts as the navigation page, allowing users to access each analytical dashboard through interactive navigation buttons.
 
 ---
 
-# 📊 Executive Dashboard
+# 📌 Project Overview
+
+This project analyzes **smartphone usage patterns, social media behavior, addiction levels, mental health, stress, and sleep habits** using **Python (Pandas)** for data preprocessing and **Power BI** for interactive dashboard development.
+
+The dashboard combines **two datasets** to provide comprehensive insights into smartphone usage and its impact on students' health, academic performance, and overall digital well-being.
+
+The report features multiple interactive dashboards connected through navigation buttons, slicers, KPIs, DAX measures, and dynamic visualizations for an intuitive user experience.
+
+---
+
+# 🎯 Objectives
+
+- Analyze smartphone usage behavior.
+- Study social media platform preferences.
+- Measure smartphone addiction levels.
+- Evaluate screen time patterns.
+- Analyze stress and mental health.
+- Examine sleep quality among users.
+- Compare smartphone usage across academic levels.
+- Generate actionable insights and recommendations.
+
+---
+
+# 🛠 Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| 🐍 Python | Data Cleaning & Preprocessing |
+| 🐼 Pandas | Data Manipulation |
+| 📊 Matplotlib | Exploratory Visualization |
+| 📈 Power BI | Interactive Dashboard Development |
+| ⚡ DAX | KPI & Measure Calculations |
+| 📑 Microsoft Excel | Dataset Preparation |
+| 🧠 WEKA | Data Analysis |
+
+---
+
+# 🔄 Project Workflow
 
 <p align="center">
-<img src="executive.png" width="1000">
+<img src="assets/images/workflow.png" width="500">
 </p>
 
-### Key KPIs
+---
 
-- Average Notifications
-- Average Work & Study Hours
+# 📊 Dashboard Preview
+
+---
+
+## 📈 Executive Dashboard
+
+<p align="center">
+<img src="assets/images/Executive.png" width="1000">
+</p>
+
+### Highlights
+
 - Total Users
-- Average Gaming Hours
+- Average Notifications
 - Average Screen Time
 - Average Sleep Hours
-
-### Visualizations
-
-- Average Screen Time by Gender
+- Average Gaming Hours
+- Average Work & Study Hours
 - Addiction Level Distribution
-- Screen Time vs Sleep
-- Average Screen Time by Stress Level
+- Screen Time by Gender
+- Screen Time vs Sleep Analysis
+- Stress Level Comparison
 
 ---
 
-# 📱 Smartphone Dashboard
+## 📱 Smartphone Dashboard
 
 <p align="center">
-<img src="smartphone.png" width="1000">
+<img src="assets/images/Smartphone.png" width="1000">
 </p>
 
-### Key KPIs
+### Highlights
 
-- Total Students
-- Average Sleep Hours
-- Average Social Support
-- Average Mental Health Score
-- Average Daily Usage
-- Average Addiction Score
-
-### Visualizations
-
-- Most Used Social Media Platform
+- Most Used Social Media Platforms
 - Relationship Status Distribution
-- Country-wise Student Distribution
-- Average Daily Usage by Gender
+- Country-wise Student Analysis
+- Daily Smartphone Usage by Gender
+- Student Demographics
+- Geographic Visualization
 
 ---
 
-# 💬 Social Media Dashboard
+## 💬 Social Media Dashboard
 
 <p align="center">
-<img src="socialmedia.png" width="1000">
+<img src="assets/images/Socialmedia.png" width="1000">
 </p>
 
-### Visualizations
+### Highlights
 
 - Platform Popularity Distribution
-- Platform Preference Across Academic Levels
+- Platform Preference by Academic Level
 - Daily Social Media Usage by Platform & Gender
 - Average Addiction Score Gauge
+- Platform Usage Insights
 
 ---
 
-# ❤️ Health Dashboard
+## ❤️ Health Dashboard
 
 <p align="center">
-<img src="health.png" width="1000">
+<img src="assets/images/Health.png" width="1000">
 </p>
 
-### Key KPIs
+### Highlights
 
 - High Addiction Students
 - Poor Sleep Students
@@ -162,54 +140,51 @@ The Home Dashboard acts as the navigation page, allowing users to access each an
 - High Stress Users
 - Average Sleep Hours
 - Average Mental Health Score
-
-### Visualizations
-
-- Average Screen Time by Stress Level
+- Screen Time by Stress Level
 - Mental Health Score by Academic Level
-- Average Mental Health Score by Platform
-- Average Screen Time by Addiction Level
+- Mental Health by Platform
+- Screen Time by Addiction Level
 
 ---
 
-# 📈 Summary Dashboard
+## 📋 Summary Dashboard
 
 <p align="center">
-<img src="summary.png" width="1000">
+<img src="assets/images/Summary.png" width="1000">
 </p>
 
-The Summary Dashboard highlights the most important findings from all dashboards and provides final recommendations for healthier smartphone usage.
+The Summary Dashboard consolidates the most important findings from all dashboards into a single page, highlighting smartphone addiction trends, health impacts, executive insights, and actionable recommendations.
 
 ---
 
-# 📊 Key Insights
+# 📈 Key Insights
 
-- 📱 Average smartphone usage is **4.92 hours/day**.
-- 😴 Average sleep duration is **6.87 hours**.
-- 🧠 Average mental health score is **6.23/10**.
-- ⚠️ 70.77% of users fall into the addicted category.
-- 📲 WhatsApp is the most frequently used social media platform.
-- 📈 Higher stress levels are associated with increased screen time.
-- 🎓 Graduate students show the highest mental health scores.
-- 📉 High addiction levels are linked with reduced sleep quality.
-- 🔔 Heavy notification frequency contributes to distraction and excessive phone usage.
+- 📱 Students spend an average of **4.92 hours per day** on smartphones.
+- 😴 Average sleep duration is **6.87 hours**, indicating moderate sleep quality.
+- 🧠 Average mental health score is **6.23/10**, suggesting scope for improvement.
+- 📊 Average addiction score is **6.44/10**, reflecting moderate to high smartphone dependency.
+- 📲 WhatsApp and Instagram are among the most preferred social media platforms.
+- 📉 High stress users spend significantly more time on smartphones.
+- 🎓 Graduate students show higher mental health scores than High School students.
+- ⚠️ Students with severe addiction levels record the highest average screen time.
+- ❤️ Better sleep and balanced smartphone usage are associated with improved mental well-being.
 
 ---
 
-# ⭐ Features
+# ⭐ Dashboard Features
 
-- 📊 Interactive Power BI Dashboard
+- 📊 Interactive Dashboards
+- 📈 Dynamic KPI Cards
 - ⚡ DAX Measures
-- 🎛 Dynamic KPIs
-- 🎚 Interactive Slicers
-- 🔄 Reset Filters Button
-- 🏠 Home Navigation Button
-- 📈 Business Insights
-- 📱 Modern Dashboard UI
-- 🎯 Responsive Layout
+- 🎛 Interactive Slicers
+- 🔍 Advanced Filters
+- 🧭 Navigation Buttons
+- 🔄 Reset Filter Button
+- 📱 Responsive Dashboard Design
 - 🌍 Geographic Analysis
+- 📉 Trend Analysis
 - ❤️ Health Analytics
-- 📚 Academic Performance Analysis
+- 📋 Executive Summary Page
 
 ---
 
@@ -217,57 +192,47 @@ The Summary Dashboard highlights the most important findings from all dashboards
 
 This project combines two public datasets:
 
-### Dataset 1
+- 📱 Smartphone Usage & Addiction Analysis Dataset
+- 💬 Students Social Media Addiction Dataset
 
-**Smartphone Usage Dataset**
-
-Contains:
-
-- Screen Time
-- Notifications
-- Gaming Hours
-- Sleep Hours
-- Stress Level
-- Addiction Level
-- Work & Study Hours
-
-### Dataset 2
-
-**Students Social Media Addiction Dataset**
-
-Contains:
-
-- Mental Health Score
-- Social Support
-- Academic Performance
-- Relationship Status
-- Social Media Platform
-- Daily Usage
-- Sleep Hours
-
----
-
-# 💡 Business Recommendations
-
-- Encourage balanced smartphone usage.
-- Reduce unnecessary notifications.
-- Promote digital well-being awareness.
-- Improve sleep habits through screen-time management.
-- Encourage stress management programs.
-- Increase awareness regarding smartphone addiction.
-- Use dashboard insights for educational and research purposes.
+Both datasets were cleaned, transformed, analyzed, and integrated into a unified Power BI data model.
 
 ---
 
 # 🚀 Future Enhancements
 
-- Publish dashboard to Power BI Service
-- Add Machine Learning prediction models
-- Real-time data integration
-- Mobile-friendly dashboard
-- AI-powered recommendation engine
-- User authentication
-- Cloud deployment
+- 🤖 AI-Based Smartphone Addiction Prediction
+- 📡 Real-Time Smartphone Usage Monitoring
+- ☁️ Power BI Service Deployment
+- 📱 Mobile Dashboard Version
+- 📊 Predictive Analytics
+- 🧠 Machine Learning Integration
+- 🎯 Personalized User Recommendations
+
+---
+
+# 📂 Repository Structure
+
+```text
+Smartphone-Usage-Addiction-Dashboard/
+│
+├── Dashboard.pbix
+├── Smartphone_Usage_Cleaned.csv
+├── Students Social Media Addiction.csv
+├── README.md
+│
+├── assets
+│   └── images
+│       ├── workflow.png
+│       ├── home.png
+│       ├── executive.png
+│       ├── smartphone.png
+│       ├── socialmedia.png
+│       ├── health.png
+│       └── summary.png
+│
+└── LICENSE
+```
 
 ---
 
@@ -275,14 +240,27 @@ Contains:
 
 ## **Ranjit Patra**
 
-📧 LinkedIn
+🎓 Information Technology Student
 
-https://www.linkedin.com/in/ranjit-patra-b27816393
+Passionate about:
 
-GitHub
+- 📊 Data Analytics
+- 📈 Power BI
+- 🐍 Python
+- 🤖 Artificial Intelligence
+- 💼 Business Intelligence
 
-https://github.com/Ranjitpatra26
+### 🌐 Connect with Me
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/ranjit-patra-b27816393/
+- 🐙 **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
 
 ---
 
-## ⭐ If you found this project useful, consider giving it a Star!
+<div align="center">
+
+## ⭐ If you found this project helpful, don't forget to Star this repository!
+
+### *"Transforming data into meaningful insights through interactive analytics."* 📊
+
+</div>
