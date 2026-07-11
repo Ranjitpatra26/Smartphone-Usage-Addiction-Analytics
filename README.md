@@ -18,7 +18,7 @@
 # 🏠 Home Dashboard
 
 <p align="center">
-<img src="assets/images/Home.png" width="1000">
+<img src="Home.png" width="1000">
 </p>
 
 ---
@@ -63,7 +63,7 @@ The report features multiple interactive dashboards connected through navigation
 # 🔄 Project Workflow
 
 <p align="center">
-<img src="assets/images/workflow.png" width="500">
+<img src="workflow.png" width="450">
 </p>
 
 ---
@@ -75,7 +75,7 @@ The report features multiple interactive dashboards connected through navigation
 ## 📈 Executive Dashboard
 
 <p align="center">
-<img src="assets/images/Executive.png" width="1000">
+<img src="Executive.png" width="1000">
 </p>
 
 ### Highlights
@@ -96,7 +96,7 @@ The report features multiple interactive dashboards connected through navigation
 ## 📱 Smartphone Dashboard
 
 <p align="center">
-<img src="assets/images/Smartphone.png" width="1000">
+<img src="Smartphone.png" width="1000">
 </p>
 
 ### Highlights
@@ -113,7 +113,7 @@ The report features multiple interactive dashboards connected through navigation
 ## 💬 Social Media Dashboard
 
 <p align="center">
-<img src="assets/images/Socialmedia.png" width="1000">
+<img src="SocialMedia.png" width="1000">
 </p>
 
 ### Highlights
@@ -129,7 +129,7 @@ The report features multiple interactive dashboards connected through navigation
 ## ❤️ Health Dashboard
 
 <p align="center">
-<img src="assets/images/Health.png" width="1000">
+<img src="Health.png" width="1000">
 </p>
 
 ### Highlights
@@ -150,7 +150,7 @@ The report features multiple interactive dashboards connected through navigation
 ## 📋 Summary Dashboard
 
 <p align="center">
-<img src="assets/images/Summary.png" width="1000">
+<img src="Summary.png" width="1000">
 </p>
 
 The Summary Dashboard consolidates the most important findings from all dashboards into a single page, highlighting smartphone addiction trends, health impacts, executive insights, and actionable recommendations.
@@ -252,8 +252,8 @@ Passionate about:
 
 ### 🌐 Connect with Me
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/ranjit-patra-b27816393/
-- 🐙 **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
+- 💼 **LinkedIn:** [Ranjit Patra](https://www.linkedin.com/in/ranjit-patra-b27816393/)
+- 🐙 **GitHub:** [Ranjitpatra26](https://github.com/Ranjitpatra26)
 
 ---
 
